@@ -1,3 +1,3 @@
 files:
-  - source: /locale/*.ini
+  - source: '*.ini'
     translation: /locale/%locale_with_underscore%/*.cfg
