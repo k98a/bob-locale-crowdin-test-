@@ -1,0 +1,3 @@
+files:
+  - source: /locale/*.ini
+    translation: /locale/%locale_with_underscore%/*.cfg
